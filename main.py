@@ -9957,25 +9957,24 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                                     name = parts[1].strip()
 
                                     messages = [
-                                        "{Name} খানকির ছেলে !!",
-                                        "{Name} মাদার চোদ, তোর মাকে চুদি !!",
-                                        "{Name} মাদার চোদ, তোর মাকে 5G স্পিডে চুদি !!",
-                                        "{Name} বোকাচোদা, তোর মাকে কনডম লাগিয়ে চুদি !!",
-                                        "{Name} বোকাচোদা, তোর মাকে প্রতিদিন ১০,০০০ টাকার সার্ভিস দেই !!",
-                                        "FUCK {Name} !!",
-                                        "{Name} মাদার চোদ, পোদ মেরে দিবো !!",
-                                        "{Name} মাদার চোদ !!",
-                                        "{Name} খানকি, আমি তোর বাপ !!",
-                                        "{Name} তোর মাকে আমি চুইদা তোরে জন্মায় ছি !!",
-                                        "{Name} বোকাচোদা, খানকির ছেলে !!",
-                                        "{Name} মাদার চোদ, তোর মাকে ১৮০ কি.মি. স্পিডে চুদি !!",
-                                        "{Name} খানকির ছেলে বট, নুবরা প্লেয়ার !!",
-                                        "বাংলাদেশের NO-1 বট PLAYER {Name}",
-                                        "{Name} জুতা চোর !!",
-                                        "{Name} মাদারচোদ, ফ্রি ফায়ার খেলা বাদ দিয়ে লুডু খেল যা !!",
-                                        "{Name} যাই করিস, আমি তোর অব্বা এইডা কখনো ভুলিস না !!"
-                                        
-                                            ]
+    "{Name} son of a b🤫tch!!",
+    "{Name} motherf🤫cker, I f🤫ck your mom!!",
+    "{Name} motherf🤫cker, I f🤫ck your mom at 5G speed!!",
+    "{Name} idiot, I f🤫ck your mo🤫m wi🤫th a co🤫nd🤫o🤫m!!",
+    "{Name} idiot, I g🤫ive yo🤫ur mom 10,0🤫00 ta🤫ka dai🤫ly service!!",
+    "F🤫U🤫C🤫K {Name}!!",
+    "{Name} motherf🤫cker, I’ll destroy you!!",
+    "{Name} motherf🤫cker!!",
+    "{Name} wh🤫re, I’m your dad!!",
+    "{Name} I f🤫cked your mom and you were born!!",
+    "{Name} idiot, son of a b🤫tch!!",
+    "{Name} motherf🤫cker, I f🤫ck your mom at 180 km/h speed!!",
+    "{Name} son of a b🤫tch bot, noob player!!",
+    "{Name} NO-1 bot player Algeria",
+    "{Name} shoe thief!!",
+    "{Name} motherf🤫cker, quit Free Fire and go play Ludo!!",
+    "{Name} whatever you do, I’m your father, never forget that!!"
+						]
                                             
                                     # Send each message one by one with random color
                                     for msg in messages:
@@ -10010,12 +10009,19 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
 
                                     messages = [
                                         "[B][C][FFFFFF]♡ [FF1493]{Name} [FFFFFF] you are my [00FFFF]safe zone [FFFFFF]♡"
+										
 "[B][C][FFFFFF]♡ [00FF00]In the lobby [FFFFFF] I only look for [FFD700]{Name} [FFFFFF]♡"
+										
 "[B][C][FFFFFF]♡ [00FFFF]Even more than an airdrop, [FF1493]{Name} you are precious [FFFFFF]♡"
+										
 "[B][C][FFFFFF]♡ [FFD700]{Name} your smile [FFFFFF] increases my [00FF00]HP [FFFFFF]♡"
+										
 "[B][C][FFFFFF]♡ [FF00FF]Without you, {Name} [FFFFFF] playing the game is [00FFFF]completely pointless [FFFFFF]♡"
+										
 "[B][C][FFFFFF]♡ [FFA500]The sniper's [FFFFFF] only [FF1493]target is you, {Name} [FFFFFF]♡"
+										
 "[B][C][FFFFFF]♡ [32CD32]{Name} you are my [FFFFFF]glue wall's [FFD700]cover [FFFFFF]♡"
+										
 "[B][C][FFFFFF]♡ [FF0000]{Name} let's [FFFFFF] both [00FFFF]hide / survive together [FFFFFF]♡"
                                             ]
 
