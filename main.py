@@ -9518,7 +9518,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                                         await safe_send_message(response.Data.chat_type, error_msg, uid, chat_id, key, iv)
                 
                 
-                        if inPuTMsG.strip().startswith('/ghost'):
+                        if inPuTMsG.strip().startswith('/ghostlkohgo'):
                             # Process /ghost command in any chat type
                             parts = inPuTMsG.strip().split()
                             if len(parts) < 2:
@@ -9547,7 +9547,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                                     await safe_send_message(response.Data.chat_type, error_msg, uid, chat_id, key, iv)
 
                         # NEW LAG COMMAND
-                        if inPuTMsG.strip().startswith('/lag '):
+                        if inPuTMsG.strip().startswith('/laglkkkgplb '):
                             print('Processing lag command in any chat type')
                             
                             parts = inPuTMsG.strip().split()
@@ -9606,7 +9606,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                             
         
 
-                        if inPuTMsG.strip().startswith('/mg '):
+                        if inPuTMsG.strip().startswith('/mghuvukb '):
                             print('Processing wave message command')
                           
                             parts = inPuTMsG.strip().split()
@@ -9668,7 +9668,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                                     error_msg = f"[B][C][FF0000]❌ Invalid format!\n"
                                     await safe_send_message(response.Data.chat_type, error_msg, uid, chat_id, key, iv)
                         
-                        if inPuTMsG.strip().startswith('/msg '):
+                        if inPuTMsG.strip().startswith('/msgjgihup'):
                             print('Processing message spam command')
                             global msg_spam_task
                             parts = inPuTMsG.strip().split()
@@ -10752,7 +10752,6 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
 
 [00FFFF]━━ FUN TEXTS ━━
 [FFD700]│ [00FF00] no[FFFFFF]ob
-[FFD700]│ [00FF00] /mg [FFFFFF][txt]
 [FFD700]└ [00FF00]/check [FFFFFF]
 [FFFF00]━━━━━━━━━━━━━━━━━━"""
 
@@ -10774,7 +10773,7 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
 
 
 [FFD700]━━ CUSTOM & FAST ━━
-[FFD700]│ [00FF00]/play [uid] [FFFFFF] 1-424
+[FFD700]│ [00FF00]/play [uid] [FFFFFF] 1-439
 [FFD700]│ [00FF00]/e [FFFFFF][tem_cd] [emt_id] [uid]
 FFD700]│ [00FF00]/e [FFFFFF] [new1]
 [FFD700]└ [00FF00]@[FFFFFF]s
@@ -10856,14 +10855,12 @@ FF0000]└ [00FF00]/age [FFFFFF]
 [FFFF00]━━━━━━━━━━━━━━━━
 
 [FFFF00]━━ TEAM ATTACK ━━
-[FF0000]│ [00FF00]/ghost [FFFFFF][code]
 [FF0000]│ [00FF00]/multijoin [FFFFFF][uid]
 [FF0000]│ [00FF00]/spm_inv [FFFFFF][uid]
 [FF0000]└ [00FF00]/spm [uid] [FFFFFF][count]
 
 
 [FFFF00]━━ PLAYER ATTACK ━━
-[FF0000]│ [00FF00]/lag [FFFFFF][uid]
 [FF0000]│ [00FF00]/inv [FFFFFF][uid]
 [FF0000]│ [00FF00]/freeze [FFFFFF][uid]
 [FF0000]└ [00FF00]/e [tmcd] [FFFFFF][emote_id]
