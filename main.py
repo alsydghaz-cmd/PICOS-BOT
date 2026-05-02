@@ -10911,10 +10911,10 @@ If you purchase this bot, please message ❀
 [FFFFFF]INSTAGRAM_[00FFFF]TELEGRAM 
 
 [FF00FF] ❀️ TELEGRAM :
-[FFFF00] ////////////
+[FFFF00] picos0
 
 [FFFFFF]❀️ INSTAGRAM : 
-[00FFFF] ㅤ///////////
+[00FFFF] 12_picos_
 
 [FFFF00]━━━━━━━━━━━━"""
 
