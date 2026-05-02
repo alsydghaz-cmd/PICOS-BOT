@@ -9162,11 +9162,11 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                             admin_message = """
 [C][B][00FFFF]╔══════════╗
 ║  ╭─────────────────╮
-║  │ [FFFF00] ভাগ্য পরীক্ষা কেন্দ্র  
+║  │ [FFFF00] Luck Testing Center  
 ║  ╰─────────────────╯
 ║                         
-║ [FF0000] আজ তুমি এয়ারড্রপ লুট
-║  করতে গিয়ে AWM পাবে! 
+║ [FF0000] Today, while looting the airdrop
+║  you will get an AWM!  
 ║                                       
 ║ ────────────── 
 ║                                       
@@ -10010,17 +10010,17 @@ async def TcPChaT(ip, port, AutHToKen, key, iv, LoGinDaTaUncRypTinG, ready_event
                                     messages = [
                                         "[B][C][FFFFFF]♡ [FF1493]{Name} [FFFFFF] you are my [00FFFF]safe zone [FFFFFF]♡"
 										
-"[B][C][FFFFFF]♡ [00FF00]In the lobby [FFFFFF] I only look for [FFD700]{Name} [FFFFFF]♡"
+"[B][C][FFFFFF]♡ [00FF00]In the lobby [FFFFFF] I only look for [FFD700]{Name} [FFFFFF]♡",
 										
-"[B][C][FFFFFF]♡ [00FFFF]Even more than an airdrop, [FF1493]{Name} you are precious [FFFFFF]♡"
+"[B][C][FFFFFF]♡ [00FFFF]Even more than an airdrop, [FF1493]{Name} you are precious [FFFFFF]♡",
 										
-"[B][C][FFFFFF]♡ [FFD700]{Name} your smile [FFFFFF] increases my [00FF00]HP [FFFFFF]♡"
+"[B][C][FFFFFF]♡ [FFD700]{Name} your smile [FFFFFF] increases my [00FF00]HP [FFFFFF]♡",
 										
-"[B][C][FFFFFF]♡ [FF00FF]Without you, {Name} [FFFFFF] playing the game is [00FFFF]completely pointless [FFFFFF]♡"
+"[B][C][FFFFFF]♡ [FF00FF]Without you, {Name} [FFFFFF] playing the game is [00FFFF]completely pointless [FFFFFF]♡",
 										
-"[B][C][FFFFFF]♡ [FFA500]The sniper's [FFFFFF] only [FF1493]target is you, {Name} [FFFFFF]♡"
+"[B][C][FFFFFF]♡ [FFA500]The sniper's [FFFFFF] only [FF1493]target is you, {Name} [FFFFFF]♡",
 										
-"[B][C][FFFFFF]♡ [32CD32]{Name} you are my [FFFFFF]glue wall's [FFD700]cover [FFFFFF]♡"
+"[B][C][FFFFFF]♡ [32CD32]{Name} you are my [FFFFFF]glue wall's [FFD700]cover [FFFFFF]♡",
 										
 "[B][C][FFFFFF]♡ [FF0000]{Name} let's [FFFFFF] both [00FFFF]hide / survive together [FFFFFF]♡"
                                             ]
@@ -10911,10 +10911,10 @@ If you purchase this bot, please message ❀
 [FFFFFF]INSTAGRAM_[00FFFF]TELEGRAM 
 
 [FF00FF] ❀️ TELEGRAM :
-[FFFF00] ㅤ@picos0
+[FFFF00] ////////////
 
 [FFFFFF]❀️ INSTAGRAM : 
-[00FFFF] ㅤ12_picos_
+[00FFFF] ㅤ///////////
 
 [FFFF00]━━━━━━━━━━━━"""
 
